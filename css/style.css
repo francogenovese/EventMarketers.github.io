@@ -842,3 +842,6 @@ a:focus {
   
 }
 
+.about-div{
+  display: flex;
+}
